@@ -1,4 +1,4 @@
-# My Personal Projects Repository
+# Public Playground - My Personal Projects Repository
 Welcome to my personal projects repository! Here, I've gathered a collection of projects that showcase my skills, interests, and explorations in various domains.
 
 ## Projects
